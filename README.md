@@ -5,6 +5,11 @@ sudo useradd rama
 sudo useradd john
 sudo useradd priya
 
+![alt text](../eveidence/image-1.png)
+
+
+
+
 # Add users to dev group
 sudo usermod -aG dev rama
 sudo usermod -aG dev john
