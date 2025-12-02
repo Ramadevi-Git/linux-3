@@ -30,6 +30,8 @@ sudo chmod g+s /projects/app1
 sudo chmod +t /projects/app1
 ls -ld /projects/app1
 
+![alt text](eveidence/image-2.png)
+
 -Install required packages (git, nginx, java)
 ```bash
 sudo yum update -y
