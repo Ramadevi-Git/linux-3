@@ -5,16 +5,12 @@ sudo useradd rama
 sudo useradd john
 sudo useradd priya
 
-![alt text](../eveidence/image-1.png)
-
-
 
 
 # Add users to dev group
 sudo usermod -aG dev rama
 sudo usermod -aG dev john
 
-![alt text](eveidence/image-1.png)
 
 # Add users to qa group
 sudo usermod -aG qa priya
@@ -29,8 +25,6 @@ sudo chmod -R 770 /projects/app1
 sudo chmod g+s /projects/app1
 sudo chmod +t /projects/app1
 ls -ld /projects/app1
-
-![alt text](eveidence/image-2.png)
 
 -Install required packages (git, nginx, java)
 ```bash
