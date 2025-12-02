@@ -14,6 +14,8 @@ sudo useradd priya
 sudo usermod -aG dev rama
 sudo usermod -aG dev john
 
+![alt text](eveidence/image-1.png)
+
 # Add users to qa group
 sudo usermod -aG qa priya
 Manage permissions for project directories
